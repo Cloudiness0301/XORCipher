@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XORCipher", "XORCipher\XORCipher.csproj", "{284A168D-B30A-4D37-9C05-CC833ED7CDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284A168D-B30A-4D37-9C05-CC833ED7CDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284A168D-B30A-4D37-9C05-CC833ED7CDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284A168D-B30A-4D37-9C05-CC833ED7CDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284A168D-B30A-4D37-9C05-CC833ED7CDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45360C8A-2EAF-4CBF-AC5D-AB9803D3F179}
+	EndGlobalSection
+EndGlobal
